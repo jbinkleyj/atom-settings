@@ -1,0 +1,72 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "tab always, enter when suggestion explicitly selected"
+    useCoreMovementCommands: false
+  core:
+    disabledPackages: [
+      "ide-cpp"
+      "ide-css"
+      "ide-html"
+      "ide-java"
+      "ide-php"
+      "ide-python"
+      "ide-scala"
+      "ide-yaml"
+      "archive-view"
+      "autocomplete-css"
+      "autocomplete-html"
+      "welcome"
+      "spell-check"
+      "package-generator"
+      "open-on-github"
+      "metrics"
+      "markdown-preview"
+      "language-toml"
+      "language-ruby-on-rails"
+      "language-ruby"
+      "language-php"
+      "language-objective-c"
+      "language-mustache"
+      "language-make"
+      "language-less"
+      "language-go"
+      "language-gfm"
+      "language-csharp"
+      "language-coffee-script"
+      "language-clojure"
+      "language-c"
+      "grammar-selector"
+      "go-to-line"
+      "github"
+      "command-palette"
+      "background-tips"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "*~"
+    ]
+    telemetryConsent: "no"
+  "disable-keybindings":
+    allCommunityPackages: true
+    bundledPackages: [
+      "go-to-line"
+      "bracket-matcher"
+    ]
+    exceptCommunityPackages: [
+      "atomic-emacs"
+    ]
+    prefixKeys: [
+      "ctrl-k"
+    ]
+  editor:
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "d43adfda-2c38-4e56-985d-eefe29ed4bab"
+  "tree-view":
+    hideIgnoredNames: true

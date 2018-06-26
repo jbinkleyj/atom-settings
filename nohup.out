@@ -1,0 +1,34 @@
+Gtk-Message: 15:32:10.256: Failed to load module "canberra-gtk-module"
+This tool has been deprecated, use 'gio trash' instead.
+See 'gio help trash' for more info.
+
+This tool has been deprecated, use 'gio trash' instead.
+See 'gio help trash' for more info.
+
+Couldn't retain /home/nkarasch/.atom/recovery/.gitignore-2c8716. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/.gitignore-2c8716'
+[24183:0625/155738.069293:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b3bc0000]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24183:0625/155740.525275:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b293d300]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Couldn't retain /home/nkarasch/.atom/recovery/README-3fb18c.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-3fb18c.md'
+[24183:0626/081334.540776:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b270da00]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24183:0626/081336.211181:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b5540100]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24183:0626/081337.898495:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b270b700]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24183:0626/081339.662335:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b270da00]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24183:0626/081347.065055:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b5540100]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24183:0626/081648.862442:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b2992000]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Couldn't retain /home/nkarasch/.atom/recovery/attribution-0b809d.sql. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/attribution-0b809d.sql'
+Couldn't retain /home/nkarasch/.atom/recovery/funnel_insightly_blend_1_year_hist-2b7e59.sql. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/funnel_insightly_blend_1_year_hist-2b7e59.sql'
+Couldn't retain /home/nkarasch/.atom/recovery/funnel_insightly_blend_1_year_hist-96fd60.sql. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/funnel_insightly_blend_1_year_hist-96fd60.sql'
+Couldn't retain /home/nkarasch/.atom/recovery/join-5640bd.sql. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/join-5640bd.sql'
+[24183:0626/083722.097522:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b2993500]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Couldn't retain /home/nkarasch/.atom/recovery/README-a1fd98.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-a1fd98.md'
+Couldn't retain /home/nkarasch/.atom/recovery/README-33f527.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-33f527.md'
+[24183:0626/085122.696331:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x3230b293cc00]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Couldn't retain /home/nkarasch/.atom/recovery/README-58cc8c.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-58cc8c.md'
+Couldn't retain /home/nkarasch/.atom/recovery/README-a88dac.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-a88dac.md'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+Couldn't retain /home/nkarasch/.atom/recovery/README-08fef8.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-08fef8.md'
+Couldn't retain /home/nkarasch/.atom/recovery/README-bd1c1f.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-bd1c1f.md'
+Couldn't retain /home/nkarasch/.atom/recovery/README-0bf1dd.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-0bf1dd.md'
+Couldn't retain /home/nkarasch/.atom/recovery/README-380929.md. Code: ENOENT. Message: ENOENT: no such file or directory, open '/home/nkarasch/.atom/recovery/README-380929.md'
